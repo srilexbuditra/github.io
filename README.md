@@ -1,15 +1,17 @@
-WEBSITE SRILEX BUDITRA — FULL STACK DEVELOPER
+# Hi, I'm Srilex Buditra 👋
+### Full Stack Developer | Freelance | Problem Solver
 
-Cara menjalankan dengan HomeServer2:
-1. Salin seluruh isi folder ini ke D:\shared (atau gunakan folder yang sudah dibagikan).
-2. Pastikan HomeServer2 menunjuk ke D:\shared dan Server running pada port 3000.
-3. Di laptop buka http://127.0.0.1:3000
-4. Dari HP pada Wi-Fi yang sama buka http://IP-LAPTOP:3000
-   Contoh: http://192.168.1.29:3000
+> **Full Stack. Full Solution. Full Impact.**
+> Membangun aplikasi digital modern yang fungsional, efisien, dan aman dari frontend hingga backend.
 
-File utama:
-- index.html
-- style.css
-- script.js
-- assets/profile.png
-- assets/payment.png
+---
+
+## 🚀 Tentang Saya
+Saya adalah seorang **Problem Solver** dan **Creator Solusi** yang berfokus pada pembangunan solusi digital berdampak nyata, mulai dari memahami kebutuhan bisnis hingga penerapan sistem berkelanjutan.
+
+---
+
+## 🛠️ Keahlian Utama
+* **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express.js, Python, REST API
+* **Database & Cloud:** MongoDB, PostgreSQL, MySQL, Docker, AWS
