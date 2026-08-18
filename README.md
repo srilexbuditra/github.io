@@ -15,3 +15,9 @@ Saya adalah seorang **Problem Solver** dan **Creator Solusi** yang berfokus pada
 * **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express.js, Python, REST API
 * **Database & Cloud:** MongoDB, PostgreSQL, MySQL, Docker, AWS
+
+---
+
+## ℹ️ Website Srilex Buditra
+* **Fitur:** profil, layanan, portofolio, paket harga, quotation generator, kalkulator otomatis, WhatsApp quotation, print/save PDF, alur pemesanan, FAQ dan responsive mobile.
+
