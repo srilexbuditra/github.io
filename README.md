@@ -45,12 +45,12 @@ Website portfolio + formulir estimasi harga yang dibuat mengikuti desain dark na
 Buka `script.js`, cari:
 
 ```js
-const WHATSAPP_NUMBER = "628xxxxxxxxxx";
+const WHATSAPP_NUMBER = "6282135238350";
 ```
 
 Ganti dengan nomor WhatsApp Anda dalam format internasional tanpa tanda `+`, spasi, atau `-`.
 
-Contoh: `6281234567890`
+Contoh: `6282135238350`
 
 ## Foto
 Foto Anda berada di `assets/profile.jpg`. Jika ingin mengganti foto, gunakan nama file yang sama agar HTML tidak perlu diubah.
